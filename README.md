@@ -7,18 +7,32 @@ This is an Airbnb clone that has been created using Next Js. There are also othe
 # Screenshots of the app:
 <p><b>Login Page:-</b></p>
 <img src="./ss/ab_ss_1.png" alt="pic1" />
+
+
 <p><b>Home Page(Top):-</b></p>
 <img src="./ss/ab_ss_2.png" alt="pic2" />
+
+
 <p><b>Home Page(Middle):-</b></p>
 <img src="./ss/ab_ss_3.png" alt="pic3" />
+
+
 <p><b>Home Page(Bottom):-</b></p>
 <img src="./ss/ab_ss_4.png" alt="pic4" />
+
+
 <p><b>Home Page(Choice of stay):-</b></p>
 <img src="./ss/ab_ss_5.png" alt="pic5" />
+
+
 <p><b>Search Results Page(Top):-</b></p>
 <img src="./ss/ab_ss_6.png" alt="pic6" />
+
+
 <p><b>Search Results Page(Middle):-</b></p>
 <img src="./ss/ab_ss_7.png" alt="pic7" />
+
+
 <p><b>Search Results Page(Bottom):-</b></p>
 <img src="./ss/ab_ss_8.png" alt="pic8" />
 
