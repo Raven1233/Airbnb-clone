@@ -1,6 +1,6 @@
-# Airbnb Clone using NEXT JS, Mapbox, with authentication using NextAuth.
+# Airbnb Clone using NEXT JS, Tailwind-css, Mapbox, with authentication using NextAuth.
 
-This is an Airbnb clone that has been created using Next Js. There are also other features such as the Mapbox and authentication using NextAuth that hae also been implemented.
+This is an Airbnb clone that has been created using Next Js and Tailwind-css. There are also other features such as the Mapbox and authentication using NextAuth that hae also been implemented.
 
 # Live version of the app: [here](https://airbnb-clone-subhadeep-das.vercel.app)
 
@@ -37,6 +37,14 @@ This is an Airbnb clone that has been created using Next Js. There are also othe
 
 <p><b>Search Results Page(Bottom):-</b></p>
 <img src="./ss/ab_ss_8.png" alt="pic8" />
+
+
+
+# What i learnt from this build:-
+1) Incorporating Mapbox component.
+2) Incorporating authentication using NextAuth
+3) Styling pages using Tailwind-css.
+
 
 
 # Next.js + Tailwind CSS Example
