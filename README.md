@@ -1,3 +1,28 @@
+# Airbnb Clone using NEXT JS, Mapbox, with authentication using NextAuth.
+
+This is an Airbnb clone that has been created using Next Js. There are also other features such as the Mapbox and authentication using NextAuth that hae also been implemented.
+
+# Live version of the app: [here](https://airbnb-clone-subhadeep-das.vercel.app)
+
+# Screenshots of the app:
+<p><b>Login Page:-</b></p>
+<img src="./ss/ab_ss_1.png" alt="pic1" />
+<p><b>Home Page(Top):-</b></p>
+<img src="./ss/ab_ss_2.png" alt="pic2" />
+<p><b>Home Page(Middle):-</b></p>
+<img src="./ss/ab_ss_3.png" alt="pic3" />
+<p><b>Home Page(Bottom):-</b></p>
+<img src="./ss/ab_ss_4.png" alt="pic4" />
+<p><b>Home Page(Choice of stay):-</b></p>
+<img src="./ss/ab_ss_5.png" alt="pic5" />
+<p><b>Search Results Page(Top):-</b></p>
+<img src="./ss/ab_ss_6.png" alt="pic6" />
+<p><b>Search Results Page(Middle):-</b></p>
+<img src="./ss/ab_ss_7.png" alt="pic7" />
+<p><b>Search Results Page(Bottom):-</b></p>
+<img src="./ss/ab_ss_8.png" alt="pic8" />
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
