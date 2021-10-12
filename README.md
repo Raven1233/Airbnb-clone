@@ -4,6 +4,8 @@ This is an Airbnb clone that has been created using Next Js. There are also othe
 
 # Live version of the app: [here](https://airbnb-clone-subhadeep-das.vercel.app)
 
+### Note:- To Logout of the app, simply click on your profile picture on the top right corner.  
+
 # Screenshots of the app:
 <p><b>Login Page:-</b></p>
 <img src="./ss/ab_ss_1.png" alt="pic1" />
